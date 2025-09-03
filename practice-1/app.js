@@ -1,4 +1,4 @@
 function greet(name) 
 {
-    return 'Hello, ' + name;
+    return 'Hi there, ' + name;
 }
